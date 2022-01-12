@@ -3,7 +3,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-% In this report I will analyse local-field potentials (LFP) recorded from one Parkinson’s Disease patient in the On and Off medication state from four brain areas: 
+% In this report I have analysed local-field potentials (LFP) recorded from one Parkinson’s Disease patient in the On and Off medication state from four brain areas: 
 % subthalamic nucleus (STN), globus pallidus internus (GPI), thalamus (Th) and premotor cortex (PM). 
 % Using frequency-domain directional measures of connectivity such as Spectral Granger Causality (SGC) and Partial Directed Coherence (PDC) I will investigate the directional influences between these areas.
 
